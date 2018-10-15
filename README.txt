@@ -1,6 +1,6 @@
 
 TITLE: 
-Nuptial - 100% Fully Responsive Free HTML5 Bootstrap Template
+AS
 
 AUTHOR:
 DESIGNED & DEVELOPED by BLACKDESIGNZ
